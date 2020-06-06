@@ -13,7 +13,8 @@ const Routes = () => {
         <NavigationContainer>
             <AppStack.Navigator 
             headerMode="none" 
-            screenOptions={{ cardStyle:{
+            screenOptions={{ 
+                cardStyle:{
                  backgroundColor: '#f0f0f5'
                 }
             }}

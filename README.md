@@ -1,6 +1,10 @@
-# <center>Ecoleta 🌱</center>
+<h1 align="center"> 
+Ecoleta 🌱 
+</h1>
 
-## <center>🌱Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambiente. O objetivo é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha etc.</center>
+<h3 align="center">
+🌱Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambiente. O objetivo é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha etc.
+</h3>
  <center> <img src="https://user-images.githubusercontent.com/63013756/83979804-567a7880-a8e7-11ea-8d2b-df7a4e3ec93e.png" alt="ecoleta" width="1000"> </center>
 
 ## 💻 Sobre o Projeto
